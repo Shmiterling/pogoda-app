@@ -1,0 +1,25 @@
+.pogodaElementsContainer {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.pogodaElement {
+    border: 1px solid black;
+    width:175px;
+    padding: 20px;
+
+}
+
+.pogodaElement li {
+    list-style: none;
+}
+
+.pogodaElement p.blue {
+    color: dodgerblue;
+}
+
+.pogodaElement p.red {
+    color:crimson;
+}
